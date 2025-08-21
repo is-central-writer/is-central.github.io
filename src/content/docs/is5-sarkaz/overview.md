@@ -64,6 +64,19 @@ Welcome to the IS5 section! Here you'll find comprehensive guides and resources 
 </div>
 
 <div class="guide-button-container">
+  <a href="/is5-sarkaz/tact-fort-angelina-hoederer/" class="guide-button">
+    <div class="button-image">
+      <img src="/guides/is5-sarkaz/tact-fort-angelina-hoederer/angelina-avatar.webp" alt="Angelina" class="operator-avatar" loading="lazy" decoding="async" />
+    </div>
+    <div class="button-content">
+      <span class="button-title">Tactical Fortification Angelina-Hoederer Guide</span>
+      <span class="button-subtitle">Original author: 重辅猫咖 (Tacfort Cat Café) | Translator: Mei of May</span>
+    </div>
+    <div class="button-arrow">→</div>
+  </a>
+</div>
+
+<div class="guide-button-container">
   <a href="/is5-sarkaz/soul-escort-yato/" class="guide-button">
     <div class="button-image">
       <img src="/guides/is5-sarkaz/soul-escort-yato/icon-yato-s2.png" alt="Yato S2" class="operator-avatar" loading="lazy" decoding="async" />
