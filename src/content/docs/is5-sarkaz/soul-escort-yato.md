@@ -2,7 +2,9 @@
 title: Soul Escort Yato Guide
 description: A comprehensive guide to the Soul Escort Yato strategy post IS5 DLC2, covering the fundamentals and advanced strategy.
 ---
-
+<!-- TODO
+Add a Glossary for abbreviations used.
+ -->
 
 ## Introduction
 Soul Escort (with Kirin R Yato start) is easily one of the most consistent strategies in the IS5 Post-Expansion II metagame, owing to its strong baseline performance against stages that other squads tend to struggle with.
@@ -15,7 +17,7 @@ The advice in this guide will be geared towards players who play on D18 and atte
 ![S3-hitcount](/guides/is5-sarkaz/soul-escort-yato/yato-s3-hitcount.png)
 (Credit to Bloodywolf)
 ### DP Management 
-sadasd
+<!-- WIP by Die -->
 
 ## Squad Mechanics
 See <a href="/is5-sarkaz/yato-soul-escort-guide">the translated introduction </a> for more details about soul escort's core squad mechanics
@@ -61,16 +63,17 @@ As we require either the `+2 Hope` or `Kettle` starting bonuses
 
 - **Gul'dul's Silence**
    - Short Term Impact: **Very High**
-        - Silence is by far the scariest relic to see entering Floor 3, and a big reason why it is recommended to (attempt to) begin wish progress on Floor 2. If you have not yet committed to ending 5, is it strongly advised to delay doing so until you have stabilized wrt King's Progress. Certain F3 stages may no longer be safely taken fractured with this relic (e.g. Bloodlines Debates) as the additional Yato deployments required to simply kill trash mobs with this relic may be too taxing on your DP. Furthermore, the difficulty of all 3 F3 Bosses increases significantly, to the point that you may be required to go for 2 Kings prior to reaching the boss (Silent Guardian in particular gets appreciably harder). 
+        - Silence is by far the scariest relic to see entering Floor 3, and a big reason why it is recommended to (attempt to) begin wish progress on Floor 2. If you have not yet committed to ending 5, is it strongly advised to delay doing so until you have stabilized wrt King's Progress. Certain F3 stages may no longer be safely taken fractured (e.g. Bloodlines Debates) as the additional Yato deployments required to simply kill trash mobs with this relic may be too taxing on your DP. Furthermore, the difficulty of all 3 F3 Bosses increases significantly, to the point that you may be required to go for 2 Kings prior to reaching the boss (Silent Guardian in particular gets appreciably harder). 
+        
         - Going into F4, having Silence makes it so that 2 Kings w/ no additional damage is no longer sufficient to open the shop rob, and causes significant problems for stages like (EM) Chaos and Frequent Disputes where we really want to be able to kill certain enemies with a single Yato S3.
     
    - Long Term Impact: Mid
     - Once 3 Kings has been acquired and/or our squad is able to efficiently deal with trash mobs without having to rely on Yato,
-    Silence is not too much of a hinderance. The main exception to this is ending 4, where (1) Killing envies with Yato S1 costs additional time, which can be fatal and (2) in a low damage scenario, this relic has a signficiant impact on Greyy's ability to comfortably handle the left lane, and makes drafting additional support more necessary.
+    Silence is not too much of a hinderance. The main exception to this is ending 4, where (1) Killing envies with Yato S1 costs additional time, which can be fatal and (2) in low damage runs, this relic has a signficiant impact on Greyy's ability to comfortably handle the left lane, which makes drafting additional support more of a necessity.
 
 - **Qui'sartuštaj's Promise:**
-   - Short & Long Term Impact: Mid (Highly variable)
-    - In low hope runs, Promise can be a killer as it can significantly affect our hope curve (and therefore our voucher efficiency). In particular, in the absence of hope sources, you should not plan around being able to draft more than 1 6* after seeing Promise. Since Promise itself has no impact on combat ability, you should greed a bit harder for the best possible 6*(s) rather than settling for one that does not *truly* solve e.g. end4. A higher premium should be placed on hope sources when evaluating pathing (Scout) and relic choices.
+   - Short & Long Term Impact: Mid (Variable)
+    - In low hope runs, Promise can be surprisingly deadly as it significantly affects our hope curve (and therefore our voucher efficiency). In particular, in the absence of hope sources, you might not able to draft more than 1 6* in Promise runs. Since Promise itself has no impact on combat ability, you should greed a bit harder for the best possible 6*(s) rather than settling for one that does not *truly* solve e.g. end4. You should also place a higher premium on hope sources when evaluating pathing (Scout) and choosing relics.
 
 - **Yliš's Ravings:**
     - Short Term Impact: Low
